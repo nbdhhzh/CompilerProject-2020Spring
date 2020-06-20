@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hzh/proj2_new/project2/kernels/grad_case1.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case10.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case2.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case3.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case4.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case5.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case6.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case7.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case8.cc
+
+/home/hzh/proj2_new/project2/kernels/grad_case9.cc
+
+/home/hzh/proj2_new/project2/run2.cc
+iostream
+-
+random
+-
+run2.h
+/home/hzh/proj2_new/project2/run2.h
+
+/home/hzh/proj2_new/project2/run2.h
+
